@@ -1,0 +1,19 @@
+# PyCharm
+.idea/
+
+# Virtual Environments
+venv/
+
+# Compiled Python files
+__pycache__/
+
+# Saved models
+Brain_MRI.keras
+Brain_MRI_Aug.keras
+Brain_MRI_VGG16_Augmented.keras
+
+# Img folders
+Test/
+Train/
+Validation/
+brain_mri_dataset/
